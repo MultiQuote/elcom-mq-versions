@@ -1,0 +1,8 @@
+{
+  "build_number": 1,
+  "build_time_utc": "04/30/2024 14:00:00",
+  "project_versions": {
+    "product_api": "0.1.141",
+    "product_ui": "0.1.123"
+  }
+}
